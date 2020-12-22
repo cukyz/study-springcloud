@@ -30,3 +30,5 @@ http://localhost:9010/hystrix
 http://localhost:8080/actuator/hystrix.stream
 
 http://localhost:5555/actuator/routes
+
+http://localhost:5555/baseservice/post 
